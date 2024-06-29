@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hari</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hari-narayana-rath&label=Profile%20views&color=0e75b6&style=flat" alt="hari-narayana-rath" /> </p>
 
 - 📫 How to reach me **hnr.desu@gmail.com**
 
@@ -20,9 +19,13 @@
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/harinarayanarath6451?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hari-narayana-rath&show_icons=true&locale=en&layout=compact" alt="hari-narayana-rath" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hari-narayana-rath&show_icons=true&locale=en&layout=compact" alt="hari-narayana-rath"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hari-narayana-rath&" alt="hari-narayana-rath" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hari-narayana-rath&" alt="hari-narayana-rath" />
+</p>
 
 
 
