@@ -21,9 +21,4 @@
 
 
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hari-narayana-rath&" alt="hari-narayana-rath" />
-</p>
-
-
 
