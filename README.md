@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hari</h1>
 
-- 📫 How to reach me **hnr.desu@gmail.com**
+- 📫Reach me at **hnr.desu@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -17,10 +17,6 @@
 <p align="center">
   
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/harinarayanarath6451?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hari-narayana-rath&show_icons=true&locale=en&layout=compact" alt="hari-narayana-rath"/>
 </p>
 
 
